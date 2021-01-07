@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hi! I'm Duha Aburumman ");
         System.out.println("This line Add by devloper1  ");
         System.out.println("I wish you are happy xD ");
+        System.out.println("We are working in assignement (:");
     }
 }
